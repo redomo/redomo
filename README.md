@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redomo
-- 👀 I’m interested in DIY Loop and Domoticz 
+- 👀 I’m interested in DIY Loop and Home Assistant 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me github@renjola.nl
